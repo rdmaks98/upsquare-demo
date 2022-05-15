@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "61d688cb0d78cc857c30ad4c"
+  },
+  "firstname": "rd",
+  "lastname": "makavana",
+  "email": "rdmaks@gmail.com",
+  "password": "$2b$10$X90NTtKQ4Y2Eo5FpnPjm2uV8VrVjYGWHYi9I/2QZ2bNWF/VOqFpfO",
+  "createdAt": {
+    "$date": "2022-01-06T06:14:35.567Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-07T09:53:28.696Z"
+  },
+  "__v": 0,
+  "profilePhoto": "profilePhoto_1641460924536_photo1.jpeg"
+},{
+  "_id": {
+    "$oid": "61d6a3985a5f8831a3b59fbd"
+  },
+  "firstname": "rinkal",
+  "lastname": "Makvana",
+  "email": "rinkymakvana7@gmail.com",
+  "password": "$2b$10$2lkAQQyLrertdVmwsMce0OlSLtIfGcORvwPhyLUFvU//BLVBz1SVO",
+  "createdAt": {
+    "$date": "2022-01-06T08:08:56.588Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-07T09:31:59.027Z"
+  },
+  "__v": 0,
+  "profilePhoto": "profilePhoto_1641547919026_photo2.jpeg"
+},{
+  "_id": {
+    "$oid": "61d6b513d25f163f7dbed43f"
+  },
+  "firstname": "dk",
+  "lastname": "khoda",
+  "email": "dushyant@gmail.com",
+  "password": "$2b$10$j7SnXOC9viEf8iRX.buN0.5jaXXBVyAvPIiK58xWpGX.wBhiqV1sO",
+  "createdAt": {
+    "$date": "2022-01-06T09:23:31.548Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-07T09:31:10.198Z"
+  },
+  "__v": 0,
+  "profilePhoto": "profilePhoto_1641547870197_photo1.jpeg"
+},{
+  "_id": {
+    "$oid": "61d807a305fd366cf1408038"
+  },
+  "firstname": "nimi",
+  "lastname": "badiyani",
+  "email": "nimi@gmail.com",
+  "password": "$2b$10$vddABjautW2PedWVmqN9..2kg5jVdP7/aNXOP/PClD7qUeSrkNAV6",
+  "createdAt": {
+    "$date": "2022-01-07T09:28:03.409Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-07T09:44:05.143Z"
+  },
+  "__v": 0,
+  "profilePhoto": "profilePhoto_1641547891967_photo1.jpeg"
+},{
+  "_id": {
+    "$oid": "61dbe69efdae493b6fe6073c"
+  },
+  "firstname": "kiya",
+  "lastname": "kasyap",
+  "email": "siya@gmail.com",
+  "password": "$2b$10$UqftfoJsAAXPEMIM4rtDy.FV7hnZnJ.78/SpnMEnZp2gNFLd5Jg9O",
+  "createdAt": {
+    "$date": "2022-01-10T07:56:14.736Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-10T08:26:28.285Z"
+  },
+  "__v": 0,
+  "profilePhoto": "profilePhoto_1641801946759_photo2.jpeg"
+},{
+  "_id": {
+    "$oid": "61dd11c4ff57e88d1e0961b2"
+  },
+  "firstname": "vina",
+  "lastname": "gajera",
+  "email": "vina@gmail.com",
+  "password": "$2b$10$jC/OPyFoik8PFUAxgxRhte8K2e/29PgCPttZ4grMs8PSv7.h8sAzm",
+  "createdAt": {
+    "$date": "2022-01-11T05:12:36.336Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-11T05:12:36.336Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,9 @@
+const APP_PORT = 2020
+const DEBUG_MODE = false
+const DB_URL = " mongodb://127.0.0.1:27017/Mern_user"
+const JWT_SECRET = "RinkalRestApicgup2"
+const SMTP_MAIL = "tommickey101@gmail.com"
+const SMTP_SERVICE = "gmail"
+const SMTP_HOST = "smtp.gmail.com"
+const SMTP_PORT = 587
+const SMTP_PASS = "Tom@1999"

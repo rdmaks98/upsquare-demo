@@ -1,0 +1,186 @@
+{
+	"info": {
+		"_postman_id": "603fffeb-affb-4c0a-911e-691c84aa0f0d",
+		"name": "Restapi",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "User",
+			"item": [
+				{
+					"name": "Register",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"firstname\": \"vina\",\n    \"lastname\": \"gajera\",\n    \"email\": \"vina@gmail.com\",\n    \"password\": \"gajera\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "http://localhost:2020/api/register"
+					},
+					"response": []
+				},
+				{
+					"name": "Login",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\t\"email\":\"vina@gmail.com\",\n\t\"password\":\"gajera\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "http://localhost:2020/api/login"
+					},
+					"response": []
+				},
+				{
+					"name": "Me",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": "http://localhost:2024/api/me"
+					},
+					"response": []
+				},
+				{
+					"name": "Update-profile",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "firstname",
+									"value": "kiya",
+									"type": "text"
+								},
+								{
+									"key": "lastname",
+									"value": "kasyap",
+									"type": "text"
+								},
+								{
+									"key": "profilePhoto",
+									"type": "file",
+									"src": "/home/p21_0114/Downloads/photo2.jpeg"
+								}
+							]
+						},
+						"url": "http://localhost:2024/api/update-profile/"
+					},
+					"response": []
+				},
+				{
+					"name": "Change-password",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\t\"password\":\"shahkiya\",\n\t\"newPass\":\"shah\",\n\t\"confPass\":\"shah\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "http://localhost:2024/api/change-password"
+					},
+					"response": []
+				},
+				{
+					"name": "All User",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": "http://localhost:2020/api/user"
+					},
+					"response": []
+				},
+				{
+					"name": "Particular user",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": "http://localhost:2024/api/getuser"
+					},
+					"response": []
+				},
+				{
+					"name": "Search user",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:2020/api/search-user?name=ki",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "2020",
+							"path": [
+								"api",
+								"search-user"
+							],
+							"query": [
+								{
+									"key": "name",
+									"value": "ki"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Forgot-password",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"email\":\"rinkymakvana7@gmail.com\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:2020/api/forgot-password",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "2020",
+							"path": [
+								"api",
+								"forgot-password"
+							],
+							"query": [
+								{
+									"key": "email",
+									"value": "siya@gmail.com",
+									"disabled": true
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}

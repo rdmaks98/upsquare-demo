@@ -1,0 +1,11 @@
+*
+*/ register a user
+*/ login a user
+*/ update a user profile
+*/ get all user
+*/ send mail
+*/ forgot password
+*/ change password
+*/ get single user
+! delete a user
+

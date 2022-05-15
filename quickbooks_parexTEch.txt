@@ -1,0 +1,34 @@
+Quickbooks & parex tech.
+
+
+1. What is Quickbooks & parex tech. ?
+->	quickbooks is popular account and Woocommerce is a popular ecommerce plugin.
+->	Automatically send all Woocommerce orders to quickbooks online when order status changes to 		processing complete
+->	Using parex tech. automated accounting and sync your orders,cutomers,products and tax from			ecommerce to quickbooks online.
+->	example [CRM is the only crm with a two way sync with quickbooks, fathom,payroll app, 				webgility].
+
+
+2. Why Used. ?.
+->	Easy to Use Software’s Interface [QuickBooks, on the other hand, is designed with intuitive features. It is easy to understand and use, even for those who lack technical prowess.]
+->	Improved Productivity at Work [Before the age of technology, accountants had to do their work manually, be it generating tax reports, creating invoices, processing bills, etc. Now, accountants have QuickBooks software to streamline the routine tasks to be done.]
+->	Easy to Manage Client’s Data [Also, these data files can be shared via emails with clients in electronic formats, thus minimizing the use of paper at work.]
+->	More Focus on the Core Accounting Tasks [It has been rightly said that what we focus on grows.]
+->	Easy Accessibility of Work-Related Data [In some situations, they just can’t make their clients wait for the next working day, and the required task has to be done immediately.Such situations can be avoided with the help of QuickBooks hosting solution. Because of cloud technology, it can be accessed for use anytime and anywhere from an Internet-connected device.]
+
+3. How can we friendly with quickbooks & parex tech. ?
+->	QuickBooks is one of the most powerful and widely used software solutions for accountants and small businesses. This software is user-friendly and fits the needs of many small business
+->  QuickBooks is a leading small business accounting platform. It provides a user-friendly 
+
+4. features. ?
+->	Automated Payment Reminders. ...
+->	Add P.O. ...
+->	Customized payment receipts. ...
+->	Create Customer Groups. ...
+->	Advanced Bank Feeds. ...
+->	Smart Help. ...
+->	Receipt Management. ...
+->	Track Invoice History.
+->	View business details on mobile.
+->	Send invoices on mobile.
+->	Get ahead with customers easily.
+->	Organise expenses.

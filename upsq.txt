@@ -1,0 +1,16 @@
+what is medium and which features are provide?.
+
+- medium is one type of articles on the internet.Medium is a blogging platform
+- "Medium is not about who you are or whom you know, but about what you have to say."
+
+frontend
+
+header = logo, our story,Membership, write, sign in , get started
+quotes = button for start writing
+trending = writer name, ting content, create date, story reading time flow
+blog | tags = number of blogs scrolling, which types blog available
+
+
+trending = 1. you can set notification 2.save it's in list, view list, highlights, recently viewed, recommended topics, follow request 3.our stories, write and import story, it's save in drafts , published your story, write a story 4. write a story, using a fontstyle
+
+profile = gift member, become a member, signout, recommendations, publications, stat, edit page
